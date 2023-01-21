@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on migrating a desktop app to the cloud
 - 🌱 I’m currently learning data structures, Go, and AWS
+- 📫 Looking for a Summer internship
 
 <!--
 - 👯 I’m looking to collaborate on ...
